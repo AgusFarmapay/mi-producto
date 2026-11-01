@@ -20,8 +20,9 @@ Farmacias personas jurídicas con esquema de firmas, en especial las grandes cad
 
 Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
 
-1. [product] [value] Los firmantes coordinan por teléfono porque no tienen otro canal, no porque necesiten conversar la decisión: con la app, la mayoría aprobaría sin llamarse.
-2. [product] [viability] Mientras no exista el multifirma, las farmacias con firma conjunta reciben observaciones de sus auditorías que las llevan a limitar su operación en Farmapay o a considerar irse.
-3. [product] [value] La necesidad va más allá de las grandes cadenas: además de ese ≈20% de las personas jurídicas (≈185, estimación; señal informal de charlas entre ejecutivos comerciales y gerencias, sin pedido formal), buena parte de las otras ≈738 usa firma conjunta y adoptaría el multifirma.
-4. [product] [viability] Se ofrece sin costo y se paga con retención y volumen: las grandes cadenas que lo pidieron operarían más, o dejarían de considerar irse.
-5. [product] [value] Una parte relevante de los firmantes va a seguir prefiriendo el portal aunque exista la app, así que ambos canales tienen que convivir.
+1. [opportunity: aprobacion-conjunta-fuera-de-plataforma] [value] La mayoría de las farmacias con firma conjunta tuvo, en los últimos 6 meses, al menos una operación demorada por no poder ubicar a un firmante o una observación de auditoría por falta de evidencia de la decisión conjunta.
+2. [product] [value] Los firmantes coordinan por teléfono porque no tienen otro canal, no porque necesiten conversar la decisión: con la app, la mayoría aprobaría sin llamarse.
+3. [product] [viability] Mientras no exista el multifirma, las farmacias con firma conjunta reciben observaciones de sus auditorías que las llevan a limitar su operación en Farmapay o a considerar irse.
+4. [product] [value] La necesidad va más allá de las grandes cadenas: además de ese ≈20% de las personas jurídicas (≈185, estimación; señal informal de charlas entre ejecutivos comerciales y gerencias, sin pedido formal), buena parte de las otras ≈738 usa firma conjunta y adoptaría el multifirma.
+5. [product] [viability] Se ofrece sin costo y se paga con retención y volumen: las grandes cadenas que lo pidieron operarían más, o dejarían de considerar irse.
+6. [product] [value] Una parte relevante de los firmantes va a seguir prefiriendo el portal aunque exista la app, así que ambos canales tienen que convivir.
